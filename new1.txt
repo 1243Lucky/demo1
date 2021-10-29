@@ -1,1 +1,1 @@
- git commit -m "intial" (mam first write this command if its access than write push command)
+ git commit -m "intial" (mam first write this command if its access than write push command) git pull
